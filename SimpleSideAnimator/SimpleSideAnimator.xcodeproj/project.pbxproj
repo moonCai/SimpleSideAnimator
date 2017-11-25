@@ -285,6 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2DRZ3436T3;
 				INFOPLIST_FILE = SimpleSideAnimator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = moon.SimpleSideAnimator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +301,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 2DRZ3436T3;
 				INFOPLIST_FILE = SimpleSideAnimator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = moon.SimpleSideAnimator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
